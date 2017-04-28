@@ -1,0 +1,24 @@
+{
+  "name": "anglar-blog-post",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ElectricMaxxx <maximilian.berghoff@gmx.de>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular"
+  ],
+  "homepage": "https://github.com/ElectricMaxxx/angular-blog-example",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

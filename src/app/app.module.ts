@@ -4,10 +4,12 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import {GigComponent} from './gig.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    GigComponent
   ],
   imports: [
     BrowserModule,
